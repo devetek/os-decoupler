@@ -7,6 +7,7 @@ Plan moving devOps tools to docker based
 - Alternatif aplikasi online untuk menngganti fungsi desktop app
 - Membuat docker image desktop app
 - Membuat docker image daily tools
+  - [Makefile](https://www3.nd.edu/~zxu2/acms60212-40212/Makefile.pdf)
   - Helm
   - Kube Cluster
     - [Kind](https://kind.sigs.k8s.io/)
