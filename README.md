@@ -9,6 +9,7 @@ Plan moving devOps tools to docker based
 - Membuat docker image daily tools
   - Helm
   - Kube Cluster
+    - [Kind](https://kind.sigs.k8s.io/)
   - Python (pyenv)
   - Golang
   - NodeJS (nvm)
