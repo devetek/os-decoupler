@@ -15,6 +15,11 @@ Plan moving devOps tools to docker based
   - Golang
   - NodeJS (nvm)
   - bash / sh
+  - Terraform
   - Kubectl
   - AWS CLI / GCP CLI / Azure CLI / DO CLI
   - etc
+
+## References
+
+- [Terra For Dummies](https://dev.to/stevenmcgown/terraform-for-dummies-part-1-eap)
